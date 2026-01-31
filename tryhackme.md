@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://tryhackme.com/p/DonkeySec">
-  <img src="https://tryhackme.com/badge/3192102" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DonkeySec.png" alt="TryHackMe Badge">
 </a>
 
 </div>
