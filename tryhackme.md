@@ -79,7 +79,7 @@ I have earned **18 Badges**, including several **Epic** and **Rare** achievement
 * **30 Day Streak:** Hacking for 30 days solid
 * **7 Day Streak:** Achieving a 7 day streak
 * **First Four:** Completed 4 rooms in the first week
-
+* **2025 ReCapMe:** Yearly activity summary
 
 ---
 
