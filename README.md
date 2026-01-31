@@ -2,13 +2,13 @@
 
 # 🙋‍♂️ Hi, I’m Dennis and I created DonkeySec!
 
-### 🛡️ Blue Team Operations | Content Creator | Cybersecurity Student
+### 🛡️ Blue Team Operations | Content Creator | Ethical Hacking | Cybersecurity Student
 
 <a href="https://www.youtube.com/@DonkeySec/videos">
-  <img src="https://img.shields.io/badge/YouTube-DonkeySec-red?style=for-the-badge&logo=youtube" alt="DonkeySec YouTube">
+  <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DonkeySec YouTube">
 </a>
 <a href="mailto:denniskontic@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email">
+  <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
