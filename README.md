@@ -67,3 +67,7 @@ const Dennis = {
 <a href="https://tryhackme.com/p/DennisKontic">
 <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3192102" alt="TryHackMe Badge">
 </a>
+
+ 📺 View My Lab Portfolio on YouTube 
+
+</div>
