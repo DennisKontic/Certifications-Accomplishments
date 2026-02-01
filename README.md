@@ -14,9 +14,9 @@
 <br>
 <br>
 
-| [🏆 Certifications](./certifications.md) | [🎓 Education](./education.md) | [💼 Experience](./experience.md) |
+| ### [💼 Experience](./experience.md) | ### [🏆 Certifications](./certifications.md) | ### [🎓 Education](./education.md) |
 | :---: | :---: | :---: |
-| **[📽️ Projects](./projects.md)** | **[🏅 Honors](./honors.md)** | **[🗣️ Testimonials](./testimonials.md)** |
+| ### [📽️ Projects](./projects.md) | ### [🏅 Honors](./honors.md) | ### [🗣️ Testimonials](./testimonials.md) |
 
 </div>
 
