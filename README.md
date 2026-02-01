@@ -2,7 +2,7 @@
 
 <div class="contact-container">
   <div class="contact-card">
-    <a href="https://www.youtube.com/@DonkeySec/videos">▶ YouTube</a>
+    <a href="https://www.youtube.com/@DonkeySec/videos">▶ Visit DonkeySec on YouTube</a>
   </div>
   <div class="contact-card">
     <a href="mailto:denniskontic@yahoo.com">✉ Email Me</a>
@@ -16,6 +16,7 @@
   <div class="menu-card"><a href="certifications.html">🏆 Certifications</a></div>
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
   <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
+  <div class="menu-card"><a href="tryhackme.html">🤖 TryHackMe</a></div>
   <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
   <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
 </div>
