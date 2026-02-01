@@ -34,7 +34,7 @@ title: 📽️ Project Portfolio
   </div>
 </div>
 
-<hr>
+<br>
 
 ### 📺 What to Expect
 My YouTube channel serves as my living lab portfolio where I bridge the gap between theory and practice.
@@ -44,7 +44,7 @@ My YouTube channel serves as my living lab portfolio where I bridge the gap betw
 * 🎓 **Scenario Analysis:** Analyzed complex scenarios from **HackTheBox, TryHackMe, CyberDefenders, CompTIA, Blue Team Labs Online** and more to create practical lesson plans, translating advanced CTF challenges into accessible, step-by-step tutorials.
 * 🤝 **Community Leadership:** Built a supportive learning community, providing guidance to help aspiring analysts bridge the gap between theory and real-world application.
 
-<hr>
+<br>
 
 <div align="center">
   <a href="index.html" class="home-button">⬅️ Return to Home</a>
