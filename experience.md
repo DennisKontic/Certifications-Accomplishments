@@ -38,8 +38,6 @@ title: 💼 Professional Experience
 * **Team Coordination:** Coordinated the referee crew through pre-match briefings and in-game signals, achieving **95% call agreement** and keeping conflicting signals under 1% of decisions.
 * **Integrity:** Observed malicious on-field actions, achieving a **90% accuracy rate** in identifying rule infractions and ensuring fair play by upholding the integrity of the match.
 
----
-
 <br>
 <div align="center">
   <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
