@@ -123,10 +123,11 @@ h3 {
   font-size: 1.75rem !important;
 }
 
-/* 8. LAYOUT */
-.main-content {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: left;
+/* 8. LINES (Completely Hidden) */
+hr {
+  display: none !important;
+  visibility: hidden !important;
+  border: none !important;
+  height: 0 !important;
+  margin: 40px 0 !important; /* Keeps the spacing but hides the line */
 }
