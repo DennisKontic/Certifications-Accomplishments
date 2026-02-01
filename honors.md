@@ -28,9 +28,9 @@ title: 🏅 Honors & Awards
 
 | Award | Issuing Organization | Date |
 | :--- | :--- | :--- |
-| **Alpha Chi Academic Honor Society** | Lindenwood University | Sep 2025 |
+| **Alpha Chi Academic Honor Society** | Alpha Chi | Sep 2025 |
 | **Honors Convocation Award** | Lindenwood University | Apr 2025 |
-| **Alpha Lambda Delta Honor Society** | Lindenwood University | Mar 2024 |
+| **Alpha Lambda Delta Honor Society** | Alpha Lambda Delta | Mar 2024 |
 | **Dean’s List** | Lindenwood University | 2023, 2024, 2025 |
 
 <br>
