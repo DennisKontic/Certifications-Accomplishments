@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🙋‍♂️ Hi, I’m Dennis and I created DonkeySec!
 
 ### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
@@ -17,8 +15,6 @@
 | ### [💼 Experience](./experience.md) | ### [🏆 Certifications](./certifications.md) | ### [🎓 Education](./education.md) |
 | :---: | :---: | :---: |
 | ### [📽️ Projects](./projects.md) | ### [🏅 Honors](./honors.md) | ### [🗣️ Testimonials](./testimonials.md) |
-
-</div>
 
 ---
 
