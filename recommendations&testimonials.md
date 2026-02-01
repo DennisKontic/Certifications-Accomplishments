@@ -8,7 +8,7 @@ title: 🗣️ Recommendations & Testimonials
 <div align="center">
   <div class="contact-container">
     <div class="contact-card">
-      <a href="https://drive.google.com/open?id=1-XfOoKNn98r91StH5a7KO188DABjutcPZQP-0LtA9Ok">📄 View Professional Recommendations</a>
+      <a href="https://drive.google.com/open?id=1-XfOoKNn98r91StH5a7KO188DABjutcPZQP-0LtA9Ok">📄 View More Professional Recommendations</a>
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@ title: 🗣️ Recommendations & Testimonials
 <div align="center">
   <div class="contact-container">
     <div class="contact-card">
-      <a href="#">📄 View Student Feedback</a>
+      <a href="https://docs.google.com/document/d/1lgORw-UmUpQWSVseDA82EFkBT5QE9oEFvUgBwmWpDMA/edit?tab=t.0">📄 View More Student Feedback</a>
     </div>
   </div>
 </div>
@@ -69,6 +69,6 @@ title: 🗣️ Recommendations & Testimonials
 
 <br>
 <div align="center">
-  <h3><a href="index.html">⬅️ Return to Home</a></h3>
+  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
 </div>
 <br>
