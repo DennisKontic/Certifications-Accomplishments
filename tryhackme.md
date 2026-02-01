@@ -9,7 +9,7 @@ title: 🛡️ My TryHackMe Journey
 <br>
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/DonkeySec.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DonkeySec.png" alt="TryHackMe Badge" width="350" />
   <br><br>
   <div class="contact-container">
     <div class="contact-card">
@@ -64,20 +64,24 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 <br>
 
 ### 🦈 Analysis & Network Skills
+*(Sorted by Rarity)*
+
 | Badge | Description | Rarity |
 | :--- | :--- | :--- |
-| **Phish Hunter** | Completed the Phishing Analysis series. | 🔵 **Rare** (4.2%) |
-| **Wireshark** | Competent with Wireshark & Packet Analysis. | 🔵 **Rare** (4.0%) |
 | **Packet Master** | Finishing the TShark command-line exercises. | 🔵 **Rare** (2.2%) |
+| **Wireshark** | Competent with Wireshark & Packet Analysis. | 🔵 **Rare** (4.0%) |
+| **Phish Hunter** | Completed the Phishing Analysis series. | 🔵 **Rare** (4.2%) |
 
 <br>
 
 ### ⚔️ Challenge Rooms
+*(Sorted by Rarity)*
+
+* **Handle the Disgruntled** (Rare 1.7%)
 * **To Benign or Not Benign?** (Rare 2%)
 * **Manic Monday** (Rare 2%)
 * **Friday Fixer** (Rare 3.7%)
 * **Skilled Navigator** (Rare 5.8%)
-* **Handle the Disgruntled** (Rare 1.7%)
 
 <br>
 
