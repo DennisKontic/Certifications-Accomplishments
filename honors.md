@@ -3,6 +3,27 @@ layout: default
 title: 🏅 Honors & Awards
 ---
 
+<style>
+  .home-button {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: #ff0000; /* Solid Red */
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border: none;
+    cursor: pointer;
+  }
+
+  .home-button:hover {
+    background-color: #0000ff; /* Solid Blue on hover */
+    transform: scale(1.05);    /* Slight pop effect */
+  }
+</style>
+
 ### 🎓 Academic Honors
 
 | Award | Issuing Organization | Date |
@@ -16,7 +37,7 @@ title: 🏅 Honors & Awards
 
 ### 📝 Details
 * **Alpha Chi:** Inducted into the National College Honor Society, restricted to juniors and seniors ranking in the upper 10% of their class.
-* **Honors Convocation:** Alpha Sigma Lambda National Honor Society recognizes those senior students in the adult evening programs who have achieved academic excellence while handling other life responsibilities, including family, work, and community service.
+* **Honors Convocation:** Alpha Sigma Lambda National Honor Society recognizes senior students who have achieved academic excellence while handling other life responsibilities.
 * **Alpha Lambda Delta:** Admitted as a freshman for achieving a GPA of 3.5 or higher during the first year of study.
 * **Dean’s List:** Consistently awarded to full-time undergraduate students achieving a GPA of 3.5 or above per semester.
 
@@ -47,7 +68,8 @@ title: 🏅 Honors & Awards
 * **Virtue of Temperance:** Specifically honored for demonstrating significant self-discipline, composure, and moderation of passion in high-pressure situations.
 
 <br>
+
 <div align="center">
-  <h3><a href="index.html">⬅️ Return to Home</a></h3>
+  <a href="index.html" class="home-button">⬅️ Return to Home</a>
 </div>
 <br>
