@@ -3,13 +3,16 @@ layout: default
 title: 🛡️ My TryHackMe Journey
 ---
 
+# 🛡️ My TryHackMe Journey
+### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
+
 ### 🏆 Ranked in the Top 1% Globally [0xD][LEGEND]
 *Executing Blue Team & Red Team scenarios.*
 
 <br>
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/DonkeySec.png" alt="TryHackMe Badge" width="350" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DonkeySec.png" alt="TryHackMe Badge" width="450" />
   <br><br>
   <div class="contact-container">
     <div class="contact-card">
@@ -44,7 +47,7 @@ I actively maintain a ranking within the Top 1% of the platform, focusing heavil
 | Path | Focus Areas & Skills Learned | Date Issued |
 | :--- | :--- | :--- |
 | **Attacking and Defending AWS** | **Cloud Exploitation:** Penetration testing EC2 instances, abusing Lambda functions for persistence, and enumerating IAM policies to identify privilege escalation vectors. | May 11, 2025 |
-| **Defending Azure** | **Cloud Defense:** utilizing KQL for advanced threat detection within Sentinel, monitoring logs via Log Analytics workspaces, and configuring Defender for Endpoint. | April 25, 2025 |
+| **Defending Azure** | **Cloud Defense:** Utilizing KQL for advanced threat detection within Sentinel, monitoring logs via Log Analytics workspaces, and configuring Defender for Endpoint. | April 25, 2025 |
 | **SOC Level 1** | **Operations:** Mastering the incident lifecycle through SIEM log analysis, endpoint monitoring with EDR solutions, and investigating web attacks (OWASP Top 10). | August 14, 2024 |
 
 <br>
@@ -53,6 +56,7 @@ I actively maintain a ranking within the Top 1% of the platform, focusing heavil
 I have earned **18 Badges**, including several Epic and Rare achievements for completing specific challenges and maintaining consistency.
 
 ### 🛡️ SOC & Simulation Badges
+
 | Badge | Description | Rarity |
 | :--- | :--- | :--- |
 | **1st Tabletop Completed** | Completed a full tabletop exercise scenario. | 🟣 **Epic** (0.2%) |
@@ -64,7 +68,6 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 <br>
 
 ### 🦈 Analysis & Network Skills
-*(Sorted by Rarity)*
 
 | Badge | Description | Rarity |
 | :--- | :--- | :--- |
@@ -75,13 +78,12 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 <br>
 
 ### ⚔️ Challenge Rooms
-*(Sorted by Rarity)*
 
-* **Handle the Disgruntled** (Rare 1.7%)
-* **To Benign or Not Benign?** (Rare 2%)
-* **Manic Monday** (Rare 2%)
-* **Friday Fixer** (Rare 3.7%)
-* **Skilled Navigator** (Rare 5.8%)
+* **Handle the Disgruntled** 🔵 (Rare 1.7%)
+* **To Benign or Not Benign?** 🔵 (Rare 2%)
+* **Manic Monday** 🔵 (Rare 2%)
+* **Friday Fixer** 🔵 (Rare 3.7%)
+* **Skilled Navigator** 🔵 (Rare 5.8%)
 
 <br>
 
