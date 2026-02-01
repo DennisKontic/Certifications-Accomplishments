@@ -5,13 +5,13 @@
     <a href="https://www.youtube.com/@DonkeySec/videos">▶ Visit DonkeySec on YouTube</a>
   </div>
   <div class="contact-card">
-    <a href="mailto:denniskontic@yahoo.com">✉ Contact Me</a>
+    <a href="mailto:denniskontic@yahoo.com">✉ Email Me</a>
   </div>
   <div class="contact-card" style="background-color: #000000; border: 2px solid #8A2BE2;">
-    <a href="https://docs.google.com/document/d/1n_OMmL8llgwFYdUIwp4xsm-beH-if5q9O1ASf1aan3I/edit?tab=t.0" style="color: white;">📄 View My Professional Resume</a>
+    <a href="https://docs.google.com/document/d/1n_OMmL8llgwFYdUIwp4xsm-beH-if5q9O1ASf1aan3I/edit?tab=t.0" style="color: white;">📄 View My Resume</a>
   </div>
   <div class="contact-card" style="background-color: #000000; border: 2px solid #8A2BE2;">
-    <a href="https://linktr.ee/DonkeySec" style="color: white;">🌐 All of DonkeySec Socials</a>
+    <a href="https://linktr.ee/DonkeySec" style="color: white;">🌐 DonkeySec Socials</a>
   </div>
 </div>
 
@@ -62,3 +62,9 @@ With a wide plethora of experience and certifications, I have become very accust
 | **CompTIA** – CSAP | **Cloud Security Alliance** – CCZT |
 | **Security Blue Team** – BTL1 | **ISC2** – CC |
 | **HackTheBox** – CDSA | **Google** – Cybersecurity Certificate |
+
+<br>
+<hr>
+<div align="center">
+  <p><i>Last Edited: February 1, 2026</i></p>
+</div>
