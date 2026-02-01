@@ -8,17 +8,17 @@
   <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="35">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div class="menu-container">
+<div class="menu-container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div class="menu-card"><a href="experience.html">💼 Experience</a></div>
   <div class="menu-card"><a href="certifications.html">🏆 Certifications</a></div>
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
   <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
   <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
   <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
+</div>
+
 </div>
 
 <br>
