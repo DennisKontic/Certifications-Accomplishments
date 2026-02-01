@@ -1,20 +1,15 @@
-# 🙋‍♂️ Hi, I’m Dennis and I created DonkeySec!
-
-### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
+<div align="center">
 
 [![](https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DonkeySec/videos)
 [![](https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denniskontic@yahoo.com)
 
----
+</div>
 
-### 📂 **Profile Navigation**
+<br>
 
-* ### [💼 Professional Experience](./experience.md)
-* ### [🏆 Certifications](./certifications.md)
-* ### [🎓 Education](./education.md)
-* ### [📽️ Projects](./projects.md)
-* ### [🏅 Honors & Awards](./honors.md)
-* ### [🗣️ Recommendations & Testimonials](./recommendations&testimonials.md)
+| ### [💼 Experience](./experience.md) | ### [🏆 Certifications](./certifications.md) | ### [🎓 Education](./education.md) |
+| :---: | :---: | :---: |
+| ### [📽️ Projects](./projects.md) | ### [🏅 Honors](./honors.md) | ### [🗣️ Testimonials](./testimonials.md) |
 
 ---
 
