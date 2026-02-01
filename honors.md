@@ -7,9 +7,9 @@ title: 🏅 Honors & Awards
 
 | Award | Issuing Organization | Date |
 | :--- | :--- | :--- |
-| **Alpha Chi Academic Honor Society** | Alpha Chi / Lindenwood University | Sep 2025 |
-| **Honors Convocation Award** | Alpha Lambda Delta | Apr 2025 |
-| **Alpha Lambda Delta Honor Society** | Alpha Lambda Delta | Mar 2024 |
+| **Alpha Chi Academic Honor Society** | Lindenwood University | Sep 2025 |
+| **Honors Convocation Award** | Lindenwood University | Apr 2025 |
+| **Alpha Lambda Delta Honor Society** | Lindenwood University | Mar 2024 |
 | **Dean’s List** | Lindenwood University | 2023, 2024, 2025 |
 
 <br>
@@ -18,7 +18,7 @@ title: 🏅 Honors & Awards
 * **Alpha Chi:** Inducted into the National College Honor Society, restricted to juniors and seniors ranking in the upper 10% of their class.
 * **Honors Convocation:** Alpha Sigma Lambda National Honor Society recognizes those senior students in the adult evening programs who have achieved academic excellence while handling other life responsibilities, including family, work, and community service.
 * **Alpha Lambda Delta:** Admitted as a freshman for achieving a GPA of 3.5 or higher during the first year of study.
-* **Dean’s List:** Consistently awarded to full-time undergraduate students achieving a GPA of 3.5 or above.
+* **Dean’s List:** Consistently awarded to full-time undergraduate students achieving a GPA of 3.5 or above per semester.
 
 <br>
 
