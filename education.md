@@ -1,25 +1,23 @@
-<div align="center">
-
-# 🎓 Education
+---
+layout: default
+title: 🎓 Education
+---
 
 ### Building a strong academic foundation in Cybersecurity and Business.
-
-</div>
 
 ---
 
 ### 🦁 Lindenwood University
-**B.S. Cybersecurity** | *Minor in Business Administration* <br>
-*St. Charles, MO* | *2023 – 2026 (Expected)*
+**B.S. Cybersecurity | Minor in Business Administration**
+*St. Charles, MO | 2023 – 2026 (Expected)*
 
-* **GPA:** **3.93 / 4.00**
+* **GPA:** 3.93 / 4.00
 * **Status:** First Generation Student
 
----
+<br>
 
 ### 🏅 Honors & Societies
-
-I have consistently maintained high academic standards, earning recognition in multiple honor societies and the Dean's List for every year of attendance.
+I have consistently maintained high academic standards, earning recognition in multiple honor societies and the Dean’s List for every year of attendance.
 
 * **Honors Academy Student**
 * **Alpha Chi Academic Honor Society**
@@ -28,8 +26,8 @@ I have consistently maintained high academic standards, earning recognition in m
 
 ---
 
+<br>
 <div align="center">
-
-**[ ⬅️ Return to Main Profile ](https://github.com/DennisKontic/Certifications-Accomplishments)**
-
+  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
 </div>
+<br>
