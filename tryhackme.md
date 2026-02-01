@@ -4,7 +4,7 @@ title: 🛡️ My TryHackMe Journey
 ---
 
 ### 🏆 Ranked in the Top 1% Globally
-*Executing Blue Team Operations & Defense Evasion scenarios.*
+*Executing Blue Team & Red Team scenarios.*
 
 <br>
 
