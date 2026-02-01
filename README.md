@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+<br>
+<br>
+
+| [🏆 Certifications](./certifications.md) | [🎓 Education](./education.md) | [💼 Experience](./experience.md) |
+| :---: | :---: | :---: |
+| **[📽️ Projects](./projects.md)** | **[🏅 Honors](./honors.md)** | **[🗣️ Testimonials](./testimonials.md)** |
+
 </div>
 
 ---
