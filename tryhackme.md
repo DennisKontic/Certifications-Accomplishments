@@ -4,9 +4,8 @@ title: 🛡️ My TryHackMe Journey
 ---
 
 # 🛡️ My TryHackMe Journey
-### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
 
-### 🏆 Ranked in the Top 1% Globally [0xD][LEGEND]
+### 🏆 Ranked in the Top 1% Globally <span style="color: #FFD700;">[0xD][LEGEND]</span>
 *Executing Blue Team & Red Team scenarios.*
 
 <br>
@@ -92,7 +91,6 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 * **30 Day Streak:** Hacking for 30 days solid
 * **7 Day Streak:** Achieving a 7 day streak
 * **First Four:** Completed 4 rooms in the first week
-* **2025 ReCapMe:** Yearly activity summary
 
 <br>
 <div align="center">
