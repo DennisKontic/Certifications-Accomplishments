@@ -36,8 +36,6 @@ Foundational credentials establishing a strong baseline in cybersecurity princip
 | **Google Cybersecurity Professional** | Coursera | **Technical Foundations:** Hands-on training in Linux, SQL, Python, and SIEM tools tailored for entry-level analysts. |
 | **Google & CompTIA Dual Credential** | Coursera/CompTIA | **Dual Validation:** Recognizes the completion of the rigorous Google curriculum alongside the passing of the CompTIA Security+ exam. |
 
----
-
 <br>
 <div align="center">
   <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
