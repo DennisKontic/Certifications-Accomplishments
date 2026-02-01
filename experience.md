@@ -1,8 +1,4 @@
-# 💼 Professional Experience
-
-### Practical application of Cybersecurity, IT Operations, and Blue Team Defense.
-
----
+<br>
 
 ### 🛡️ DonkeySec
 **Founder & Content Creator** *United States (Remote) | Present*
@@ -43,6 +39,6 @@
 
 <br>
 <div align="center">
-  <h3><a href="./README.md">⬅️ Return to Main Profile</a></h3>
+  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
 </div>
 <br>
