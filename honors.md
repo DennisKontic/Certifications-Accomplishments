@@ -48,6 +48,6 @@ title: 🏅 Honors & Awards
 
 <br>
 <div align="center">
-  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
+  <h3><a href="index.html">⬅️ Return to Home</a></h3>
 </div>
 <br>
