@@ -83,7 +83,7 @@ title: 🗣️ Recommendations & Testimonials
 
 <br>
 
-### Younggunna_chicago
+### @Younggunna_chicago
 **DonkeySec Student**
 
 > “Oh now this is nice! Yeah I just subscribed.”
